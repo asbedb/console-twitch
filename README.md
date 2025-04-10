@@ -15,7 +15,7 @@ Next, you need to set up your Twitch application and configure your `.env` file.
 3. Once your application is created, navigate to its settings and copy your `Client ID` and `Client Secret`.
 
 ## Configure your `.env` file
-In the root directory of your project, create a file named .env and add the following information, replacing the <placeholders> with your actual values removing `<>` characters ():
+In the root directory of your project, create a file named .env and add the following information, replacing the <placeholders> with your actual values removing `<>` characters:
 
 ```
 TWITCH_CLIENT_ID=<YOUR CLIENT ID>
